@@ -74,7 +74,7 @@ Platform to generate the icons for.
 Type: `string`<br>
 Default: `white`
 
-[Color](http://www.graphicsmagick.org/GraphicsMagick.html#details-fill) of the icon background if the icon is transparant.
+[Color](http://www.graphicsmagick.org/GraphicsMagick.html#details-fill) of the icon background if the icon is transparent.
 
 ##### contentRatio
 
